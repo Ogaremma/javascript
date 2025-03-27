@@ -85,4 +85,4 @@ while (guess !== targetNum) {
         guess = prompt("TOO LOW! TO ENTER")
     }
 }
-console.log("YOU GOT IT !!!")
+console.log("YOU DON GET AM OHH !!!")
